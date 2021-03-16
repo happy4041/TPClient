@@ -1,6 +1,7 @@
 ## TPClient
 
-TPClient is a **free** Third-party client of EsurfingClient.
+TPClient is a **free** Third-party client of EsurfingClient. 
+Add *.*.*.3:8080 H3C verification support.(TPClientForThree)
 
 ## Installtion
 
@@ -18,7 +19,8 @@ If you want to enable your ordinary router to access the Internet, you need to r
 
 ## Thank
 
-Thanks to [Coande](https://github.com/Coande) for his good job to the [LandLeg_Java](https://github.com/Coande/LandLeg_Java) project.
+Thanks to [P1ay2win](https://github.com/P1ay2win) for his good job to the [TPClient](https://github.com/P1ay2win/TPClient) project.
+And thanks to [Coande](https://github.com/Coande) for his good job to the [LandLeg_Java](https://github.com/Coande/LandLeg_Java) project.
 
 ## License
 
